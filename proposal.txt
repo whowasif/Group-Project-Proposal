@@ -1,1 +1,18 @@
-
+\section{Introduction}
+\large The number of students in our country is increasing day by day. Nowadays, technology is in every sector. Especially in the education sector, we see many other countries use technology in their education sector and it helps both teachers and students. An examination management system is a software developed to manage the entire exam process. It covers all the activities related to examination management, from receiving enrollment and examination forms to the processing of exams, printing, distribution, and statistical reports. The education exam management system automates the examination process to facilitate sound and timely decisions, take time and stress off faculty and improve communication between faculty, students and parents.
+\section{Objective}
+\begin{itemize}
+    \item Eliminating overwhelm.
+    \item Shifting administration to a single, central system to simplify the execution of examination processes.
+\item Significantly reduces time spent fulfilling pre-prep, during and after examinations processes.
+    \item Become paper-free.
+    \item Publish grades.
+\end{itemize}
+\section{Target Customers}
+\begin{itemize}
+    \item Teachers: The Exam module can instantly deliver the result with a simple button click. This can help save a lot of time for teachers, and they can concentrate on more productive work.
+    \item Students: The Exam module can instantly deliver the result with just a simple click of the button. This can help in saving a lot of time for students, and they can concentrate on more productive work and get enough time to prepare for their next exam.
+    
+\end{itemize}
+\section{Value Proposition}
+\large This project will reduce the time of a student as well as a teacher. A teacher can upload the question and also he can add the grade in this project. He also can remove a student from the list easily If he wants to do so. A student can see their grades in this project. He or she can register himself/herself for an exam easily.
