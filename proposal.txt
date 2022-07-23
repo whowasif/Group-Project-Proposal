@@ -16,3 +16,41 @@
 \end{itemize}
 \section{Value Proposition}
 \large This project will reduce the time of a student as well as a teacher. A teacher can upload the question and also he can add the grade in this project. He also can remove a student from the list easily If he wants to do so. A student can see their grades in this project. He or she can register himself/herself for an exam easily.
+\section{Application Feature and description}
+\large The Software will open with a surface where will be two option for two section. It will be general view and anyone who opens it, will be able to see it. One of the options for the students and the other one for the teachers. If students log in into the student's section they can:    
+\begin{itemize}
+    \item See how many exams they have.
+    \item Know the exams' date and time.
+    \item See their history of exam results.
+    \item See their exam's answer right after the exam.
+    \item Take an exam very easily.
+\end{itemize}
+\large If teachers log in into the teacher's section they can:
+\begin{itemize}
+    \item Make the question paper.
+    \item Verify the answers automatically and manually. 
+    \item See the students exams' progress.
+    \item Send  necessary message's to the students.
+\end{itemize}
+\section{Benefits}
+\begin{itemize}
+    \item Secure
+    \item Time bar prevention
+    \item Straightforward to use
+    \item Reliable and correct
+    \item No want of examiner
+    \item Consistency
+    \item No debugging repetition
+\end{itemize}
+    
+\section{Tools and Resources}
+\begin{itemize}
+    \item Eclipse
+    \item JUnit
+    \item SQLite
+    \item Flatfile
+    \item MS Word
+\end{itemize}
+
+\section{Challenge}
+\large The main challenge of this project is Data management. We have to maintain a huge amount of data in this project. All the student has a unique identity. we have to store that in our project. Also we have to store a lot of Question Bank in this project as the input of a teacher. Another challenge of this project is Security. Many students will try to increase their marks. We have to focus on Security section.
