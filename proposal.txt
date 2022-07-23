@@ -1,3 +1,57 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+
+\begin{document}
+
+\begin{titlepage}
+\graphicspath{ {./CSE215L/} }
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+\begin{center}
+\includegraphics[width=.3\textwidth]{north-south-university-logo}\\[0.5cm]
+  \textsc{\Large North South University}
+  
+  \textsc{\normalsize Department of Electrical and Computer Engineering}\\[0.5cm] 
+  
+  \textsc{\large Project Proposal}\\[0.5cm]
+  
+  \HRule\\[0.5cm]
+  \textsc{\huge "Examination System"}\\[0.5cm]
+  \HRule\\[1cm]
+  
+  \textsc{\normalsize Programming Language II}\\
+  \textsc{\normalsize CSE215}\\
+  \textsc{\normalsize Section 12}\\
+  \textsc{\normalsize Semester: SUMMER 2022}\\[0.5cm]
+  
+  \textsc{\normalsize  \textbf{\underline{Students and Their ID}}}\\[0.3cm]
+  
+  \textsc{\normalsize \textbf{Abdullah Al Wasif}} \quad \textsc{\normalsize \textbf{Mujtaba Muhammad Abrar}} \quad \textsc{\normalsize \textbf{Shadman Khan}} \\
+  
+  \textsc{\normalsize \textbf{2131465642}} \qquad \qquad \qquad \textsc{\normalsize \textbf{2122265642}} \qquad \qquad \qquad \qquad \textsc{\normalsize \textbf{2122061642}}  \\[0.7cm]
+  
+ \textbf{Course Faculty }
+\hfill
+\textbf{Lab Instructor} \\
+Tarek Mizan
+\hfill
+Nazmul Alam Dipto\\
+Professor
+\hfill
+\;\\[0.5cm]
+
+Submission Date: 24 July 2022\\[0.3cm]
+Overleaf Link: 
+\href{https://www.overleaf.com/read/mfdkhhsfzrqs}{Click Here} \\
+Github Link:
+\href{https://github.com/whowasif/Group-Project-Proposal/blob/2f76087a5b51d8a1f7b7c813995b96696277da70/proposal.txt}{Click Here}
+
+
+\end{center}
+
+\end{titlepage}
 \section{Introduction}
 \large The number of students in our country is increasing day by day. Nowadays, technology is in every sector. Especially in the education sector, we see many other countries use technology in their education sector and it helps both teachers and students. An examination management system is a software developed to manage the entire exam process. It covers all the activities related to examination management, from receiving enrollment and examination forms to the processing of exams, printing, distribution, and statistical reports. The education exam management system automates the examination process to facilitate sound and timely decisions, take time and stress off faculty and improve communication between faculty, students and parents.
 \section{Objective}
@@ -54,3 +108,4 @@
 
 \section{Challenge}
 \large The main challenge of this project is Data management. We have to maintain a huge amount of data in this project. All the student has a unique identity. we have to store that in our project. Also we have to store a lot of Question Bank in this project as the input of a teacher. Another challenge of this project is Security. Many students will try to increase their marks. We have to focus on Security section.
+\end{document}
