@@ -46,7 +46,7 @@ Submission Date: 24 July 2022\\[0.3cm]
 Overleaf Link: 
 \href{https://www.overleaf.com/read/mfdkhhsfzrqs}{Click Here} \\
 Github Link:
-\href{https://github.com/whowasif/Group-Project-Proposal/blob/2f76087a5b51d8a1f7b7c813995b96696277da70/proposal.txt}{Click Here}
+\href{https://github.com/whowasif/Group-Project-Proposal/blob/166dd9cf05c2cb1b091023df751d2bb208fdcfb1/proposal.txt}{Click Here}
 
 
 \end{center}
